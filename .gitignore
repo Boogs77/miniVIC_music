@@ -1,0 +1,10 @@
+# local notes (in Italian) and paths
+CHECKLIST.md
+CLAUDE.md
+vasm.path
+# build output: listings and the WAV previews (large; make them with node build.js)
+build/
+wav/
+# screenshots of the tests and of the web emulator checks
+shots/test_*.png
+shots/web_*.png
