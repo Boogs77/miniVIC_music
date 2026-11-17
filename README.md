@@ -1,6 +1,6 @@
 # 🎵 miniVIC Music
 
-Music for the **miniVIC** (W65C02S at 1 MHz, TMS9918A, two AY-3-8910): sixteen songs played in stereo on six voices, and **miniVIC JUKEBOX**, which plays them all.
+Music for the **miniVIC** (W65C02S at 1 MHz, TMS9918A, two AY-3-8910): sixteen songs played in stereo on six voices, and **miniVIC JUKEBOX**, which plays them all. The [miniVIC Operation Manual](https://github.com/Boogs77/miniVIC-manual) describes the AY-3-8910 registers and the songs.
 - The classical pieces are in the public domain and are arranged here from scratch.
 - The other songs are original tunes in the style of the 1980s games.
 
